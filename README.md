@@ -1,2 +1,2 @@
 # Amazon-Buy-Box-Data-Extraction
-Amazon Buy Box Data Extraction
+This is a snippet of a project I'm working on in my spare time. Ultimately, the goal is to use Selenium to crawl and scrape pricing and seller information on Amazon.com for top-selling items by department - and use Linear Probability Model / Logit Model to predict the likelihood that a seller will be selected for placement in the Buy Box. Sample out is included here. No claim to originality is being made by me. This purely educational so please do not commercialize (permission will NOT be granted). 
